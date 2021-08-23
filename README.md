@@ -85,4 +85,8 @@ FaceRecognition
         cv2.imshow('Faces & Noses & Eyes Recognition', image)
         cv2.waitKey()
         cv2.destroyAllWindows()
+
+
+## 4. Show
 ![Result](https://user-images.githubusercontent.com/70878758/130394409-953c5ab4-a3ed-460d-961e-f5d6a914104d.jpg)
+##### apparently there are 4 faces in the picture, by using Haar Cascade Classfiers cannot detect not front faces.

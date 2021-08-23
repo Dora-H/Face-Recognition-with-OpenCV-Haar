@@ -46,6 +46,8 @@ FaceRecognition
 
 ##### list to hold all subject faces
         faces_holder = []
+        
+##### using Haar Cascade Classfiers
         faces = face_cascade.detectMultiScale(adj_image, 1.08, 5, minSize=(30, 30))
         
         for left, top, width, height in faces:

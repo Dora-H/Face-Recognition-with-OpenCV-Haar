@@ -90,3 +90,5 @@ FaceRecognition
 ## 4. Show
 ![Result](https://user-images.githubusercontent.com/70878758/130394409-953c5ab4-a3ed-460d-961e-f5d6a914104d.jpg)
 ##### apparently there are 4 faces in the picture, by using Haar Cascade Classfiers cannot detect not front faces.
+![Result2](https://user-images.githubusercontent.com/70878758/130406468-cf2a8eb7-5015-461b-8f4c-746e9e94f33d.png)
+##### by using Haar Cascade Classfiers can detect all front faces in the picture.
